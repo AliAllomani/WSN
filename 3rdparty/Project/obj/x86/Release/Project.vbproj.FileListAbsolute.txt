@@ -1,0 +1,49 @@
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\bin\Release\Project.exe
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\bin\Release\Project.pdb
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\bin\Release\Project.xml
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Release\Project.Form1.resources
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Release\Project.Resources.resources
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Release\Project.exe
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Release\Project.xml
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Release\Project.pdb
+C:\Users\Allomani\Desktop\Car Project\3rdparty\Project\bin\Release\Project.exe
+C:\Users\Allomani\Desktop\Car Project\3rdparty\Project\bin\Release\Project.pdb
+C:\Users\Allomani\Desktop\Car Project\3rdparty\Project\bin\Release\Project.xml
+C:\Users\Allomani\Desktop\Car Project\3rdparty\Project\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Allomani\Desktop\Car Project\3rdparty\Project\obj\x86\Release\Project.Form1.resources
+C:\Users\Allomani\Desktop\Car Project\3rdparty\Project\obj\x86\Release\Project.Resources.resources
+C:\Users\Allomani\Desktop\Car Project\3rdparty\Project\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Allomani\Desktop\Car Project\3rdparty\Project\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Allomani\Desktop\Car Project\3rdparty\Project\obj\x86\Release\Project.exe
+C:\Users\Allomani\Desktop\Car Project\3rdparty\Project\obj\x86\Release\Project.xml
+C:\Users\Allomani\Desktop\Car Project\3rdparty\Project\obj\x86\Release\Project.pdb
+C:\Users\Allomani\Desktop\May 2010\Car Project\3rdparty\Project\bin\Release\Project.exe
+C:\Users\Allomani\Desktop\May 2010\Car Project\3rdparty\Project\bin\Release\Project.pdb
+C:\Users\Allomani\Desktop\May 2010\Car Project\3rdparty\Project\bin\Release\Project.xml
+C:\Users\Allomani\Desktop\May 2010\Car Project\3rdparty\Project\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Allomani\Desktop\May 2010\Car Project\3rdparty\Project\obj\x86\Release\Project.Form1.resources
+C:\Users\Allomani\Desktop\May 2010\Car Project\3rdparty\Project\obj\x86\Release\Project.Resources.resources
+C:\Users\Allomani\Desktop\May 2010\Car Project\3rdparty\Project\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Allomani\Desktop\May 2010\Car Project\3rdparty\Project\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Allomani\Desktop\May 2010\Car Project\3rdparty\Project\obj\x86\Release\Project.exe
+C:\Users\Allomani\Desktop\May 2010\Car Project\3rdparty\Project\obj\x86\Release\Project.xml
+C:\Users\Allomani\Desktop\May 2010\Car Project\3rdparty\Project\obj\x86\Release\Project.pdb
+D:\Car Project\3rdparty\Project\obj\x86\Release\Project.exe
+D:\Car Project\3rdparty\Project\obj\x86\Release\Project.xml
+D:\Car Project\3rdparty\Project\obj\x86\Release\Project.pdb
+D:\WSN Project 2010\3rdparty\Project\bin\Release\Project.exe
+D:\WSN Project 2010\3rdparty\Project\bin\Release\Project.pdb
+D:\WSN Project 2010\3rdparty\Project\bin\Release\Project.xml
+D:\WSN Project 2010\3rdparty\Project\obj\x86\Release\ResolveAssemblyReference.cache
+D:\WSN Project 2010\3rdparty\Project\obj\x86\Release\Interop.MSChart20Lib.dll
+D:\WSN Project 2010\3rdparty\Project\obj\x86\Release\Project.vbproj.ResolveComReference.cache
+D:\WSN Project 2010\3rdparty\Project\obj\x86\Release\Project.Form1.resources
+D:\WSN Project 2010\3rdparty\Project\obj\x86\Release\Project.Resources.resources
+D:\WSN Project 2010\3rdparty\Project\obj\x86\Release\GenerateResource.read.1.tlog
+D:\WSN Project 2010\3rdparty\Project\obj\x86\Release\GenerateResource.write.1.tlog
+D:\WSN Project 2010\3rdparty\Project\obj\x86\Release\Project.exe
+D:\WSN Project 2010\3rdparty\Project\obj\x86\Release\Project.xml
+D:\WSN Project 2010\3rdparty\Project\obj\x86\Release\Project.pdb

@@ -1,0 +1,47 @@
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\Project\bin\Debug\Project.exe
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\Project\bin\Debug\Project.pdb
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\Project\bin\Debug\Project.xml
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\Project\obj\x86\Debug\Project.Form1.resources
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\Project\obj\x86\Debug\Project.Resources.resources
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\Project\obj\x86\Debug\Project.exe
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\Project\obj\x86\Debug\Project.xml
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\Project\obj\x86\Debug\Project.pdb
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\Project.exe
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\Project.xml
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\Project.pdb
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\bin\Debug\Project.exe
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\bin\Debug\Project.pdb
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\bin\Debug\Project.xml
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\Project.Form1.resources
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\Project.Resources.resources
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Allomani\Desktop\RF Stepper  [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\Project.exe
+C:\Users\Allomani\Desktop\RF Stepper  [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\Project.xml
+C:\Users\Allomani\Desktop\RF Stepper  [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\Project.pdb
+C:\Users\Allomani\Desktop\May 2010\RF Stepper  [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\Project.exe
+C:\Users\Allomani\Desktop\May 2010\RF Stepper  [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\Project.xml
+C:\Users\Allomani\Desktop\May 2010\RF Stepper  [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\Project.pdb
+C:\Users\Allomani\Desktop\May 2010\RF Stepper  [BASIC] atmega8\3rdparty\Project\bin\Debug\Project.exe
+C:\Users\Allomani\Desktop\May 2010\RF Stepper  [BASIC] atmega8\3rdparty\Project\bin\Debug\Project.pdb
+C:\Users\Allomani\Desktop\May 2010\RF Stepper  [BASIC] atmega8\3rdparty\Project\bin\Debug\Project.xml
+C:\Users\Allomani\Desktop\May 2010\RF Stepper  [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Allomani\Desktop\May 2010\RF Stepper  [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\Project.Form1.resources
+C:\Users\Allomani\Desktop\May 2010\RF Stepper  [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\Project.Resources.resources
+C:\Users\Allomani\Desktop\May 2010\RF Stepper  [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Allomani\Desktop\May 2010\RF Stepper  [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\AVR\RF Stepper  [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\Project.exe
+D:\AVR\RF Stepper  [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\Project.xml
+D:\AVR\RF Stepper  [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\Project.pdb
+D:\AVR\RF Stepper  [BASIC] atmega8\3rdparty\Project\bin\Debug\Project.exe
+D:\AVR\RF Stepper  [BASIC] atmega8\3rdparty\Project\bin\Debug\Project.pdb
+D:\AVR\RF Stepper  [BASIC] atmega8\3rdparty\Project\bin\Debug\Project.xml
+D:\AVR\RF Stepper  [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\AVR\RF Stepper  [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\Project.Form1.resources
+D:\AVR\RF Stepper  [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\Project.Resources.resources
+D:\AVR\RF Stepper  [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\AVR\RF Stepper  [BASIC] atmega8\3rdparty\Project\obj\x86\Debug\GenerateResource.write.1.tlog

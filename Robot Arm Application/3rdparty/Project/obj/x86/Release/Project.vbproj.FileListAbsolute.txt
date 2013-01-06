@@ -1,0 +1,11 @@
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\bin\Release\Project.exe
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\bin\Release\Project.pdb
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\bin\Release\Project.xml
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Release\Project.Form1.resources
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Release\Project.Resources.resources
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Release\Project.exe
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Release\Project.xml
+C:\Users\Allomani\Desktop\RF TEST  2 [BASIC] atmega8\3rdparty\Project\obj\x86\Release\Project.pdb
